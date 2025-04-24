@@ -2,11 +2,11 @@
 
 <h1 align="center">Hi 👋, I'm Tharuki Dela</h1>
 <h3 align="center">I'm a Software Engineer </h3>
-<img align="right" alt="coding" width="400" src="https://c.tenor.com/flflC6GFzO8AAAAM/sultan-alrefaei-programmer.gif">
+<img align="right" alt="coding" width="400" src="https://computerthinkinghome.weebly.com/uploads/6/0/0/1/60010291/published/character-typing-g4_1.gif">
 
 
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://computerthinkinghome.weebly.com/uploads/6/0/0/1/60010291/published/character-typing-g4_1.gif" alt="" /></a> </p>
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🚀 Interests:
 - Software Engineering 💻
