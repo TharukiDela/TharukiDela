@@ -6,7 +6,7 @@
 
 
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://computerthinkinghome.weebly.com/uploads/6/0/0/1/60010291/published/character-typing-g4_1.gif" alt="" /></a> </p>
 
 - 🚀 Interests:
 - Software Engineering 💻
