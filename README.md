@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Tharuki Dela</h1>
 <h3 align="center">I'm a Software Engineer </h3>
-<img align="right" alt="coding" width="400" src="https://computerthinkinghome.weebly.com/uploads/6/0/0/1/60010291/published/character-typing-g4_1.gif">
+<img align="right" alt="coding" width="400" src="https://static.vecteezy.com/system/resources/previews/027/148/576/non_2x/young-woman-writing-code-on-a-desktop-computer-software-developer-at-work-programming-coding-script-java-digital-program-code-on-monitor-screen-illustration-vector.jpg">
 
 
 
